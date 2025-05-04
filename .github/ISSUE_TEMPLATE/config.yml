@@ -1,0 +1,6 @@
+# Configuration for issue templates
+# This will make the feature request template the default template
+blank_issues_enabled: false
+defaults:
+  - name: Feature Request
+    description: Suggest a new feature for the project.
