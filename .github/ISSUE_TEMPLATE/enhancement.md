@@ -1,9 +1,11 @@
 ---
 name: Enhancement
-description: Suggest improvements to existing functionality or code quality.
-title: '[Enhancement]: '
+about: Suggest code improvements, for instance refactorings that would improve the
+  code structure, performance or memory footpint.
+title: "[Enhancement]: "
 labels: enhancement
-assignees: ''
+assignees: masiw
+
 ---
 
 **Is your enhancement request related to a problem? Please describe.**

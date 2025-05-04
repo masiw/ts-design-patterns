@@ -1,9 +1,11 @@
 ---
 name: Documentation
-description: Suggest updates or additions to the documentation.
-title: '[Docs]: '
+about: Suggest any new topics or changes to existing topics to be added to the documentation
+  in order to make ist clearer.
+title: "[Docs]: "
 labels: documentation
 assignees: ''
+
 ---
 
 **Is your documentation request related to a problem? Please describe.**

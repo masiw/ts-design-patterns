@@ -1,9 +1,10 @@
 ---
 name: Bug Report
-description: Report a bug to help us improve.
-title: '[Bug]: '
+about: Report any defects or issues found in production.
+title: "[Bug]: "
 labels: bug
 assignees: ''
+
 ---
 
 **Describe the bug**

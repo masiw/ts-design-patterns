@@ -1,11 +1,12 @@
 ---
 name: Feature Request
-description: Suggest a new feature for the project.
-title: '[Feature]: '
-labels: feature
+about: In order to add new functionality to the project. The can be adding new feature
+  to the end product, new tesing capilities, or new devops functionality,
+title: "[Feature]: "
+labels: ''
 assignees: ''
----
 
+---
 
 | Question | Answer |
 | ---- | ---- |
@@ -34,4 +35,3 @@ Add any features required. Below is a checklist to help define when the feature 
 - [ ] Documentation is updated
 - [ ] Code is reviewed and approved
 - [ ] Feature is tested in staging/production environment
-
