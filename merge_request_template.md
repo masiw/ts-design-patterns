@@ -1,4 +1,4 @@
-# [Insert title]
+# [Issue title]
 
 - [ ] Issue Link: [Insert issue link here]
 
